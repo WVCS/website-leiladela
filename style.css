@@ -21,7 +21,7 @@ body{
 h2:hover {
   font-size:300%;
   text-transform:uppercase;
-  textdecoration:wavy underline purple;
+  text-decoration:wavy underline white;
     font-family: "Times New Roman", Times, serif
 }
 
