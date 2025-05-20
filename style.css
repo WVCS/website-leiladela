@@ -1,3 +1,30 @@
 body {
+ 
+    h2 {
+  color:pink;
+  text-decoration-line:underline;
+   text-shadow: 2px 2px 5px red;
+   font-family: "Lucida Console", "Courier New", monospace;
+}
+
+body{
+  background-color: #FDFD96;
+}
+    
+    h2 {
+  color:pink;
+  text-decoration-line:underline;
+   text-shadow: 2px 2px 5px red;
+   font-family: "Lucida Console", "Courier New", monospace;
+
+}
+h2:hover {
+  font-size:300%;
+  text-transform:uppercase;
+  textdecoration:wavy underline purple;
+    font-family: "Times New Roman", Times, serif
+}
+
+
 
 }
